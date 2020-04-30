@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588272281027.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4A1E14EA",
+    "lastKnownWriteTime" : 1588275063,
+    "last_content_update" : 1588275063652,
+    "path" : "~/GitHub/finman_calc/Sandbox.Rmd",
+    "project_path" : "Sandbox.Rmd",
+    "properties" : {
+        "cursorPosition" : "54,3",
+        "last_setup_crc32" : "757AF2A75ff0428a",
+        "scrollLine" : "31"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
